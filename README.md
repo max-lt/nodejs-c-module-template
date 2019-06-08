@@ -1,7 +1,7 @@
 # Template module in C
 ## Prerequisite
 
-node 10, npm, compiler C/C++, debhelper
+node 10, npm, compiler C/C++
 
 ## Development mode:
 #### Install the node packages:
